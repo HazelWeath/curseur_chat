@@ -1,4 +1,4 @@
-# Curseurs Personnalisés - Scottish Fold Pixel Art
+# Curseurs Personnalisés
 
 Ce dépôt contient une collection de curseurs système personnalisés en pixel art (34x34) inspirés d'un chat écossais (*Scottish Fold*) orange et blanc. Vous y trouverez différentes déclinaisons de ses postures (l'espion caché derrière la barre, le chat qui dort, etc.).
 
@@ -37,3 +37,4 @@ Suivez ces instructions pour télécharger, installer et configurer proprement c
 6. La fenêtre s'ouvre directement dans le bon répertoire système. Double-cliquez sur votre dossier `Curseurs_Chat`.
 7. Sélectionnez le fichier correspondant à la posture souhaitée (par exemple, le chat espion aigri pour l'écriture) et cliquez sur **Ouvrir**.
 8. Pour valider, cliquez sur le bouton **Appliquer**, puis sur **OK**. Vos nouveaux curseurs sont prêts !
+> Information supplémentaire: Il est possible d'enregistrer votre séléction de curseur et de donné un nom a cette séléction pour pouvoir changer plus facilement de curseur.
